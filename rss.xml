@@ -1,0 +1,22 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Juggler Chris&#x27;s blog</title>
+        <link>https:&#x2F;&#x2F;jugglerchris.github.io</link>
+        <description>Miscellaneous thoughts</description>
+        <generator>Gutenberg</generator>
+        <language>en</language>
+        <atom:link href="https:&#x2F;&#x2F;jugglerchris.github.io&#x2F;rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Jan 2018 00:00:00 +0000</lastBuildDate>
+        
+            <item>
+                <title>Hello, world!</title>
+                <pubDate>Thu, 18 Jan 2018 00:00:00 +0000</pubDate>
+                <link>https:&#x2F;&#x2F;jugglerchris.github.io&#x2F;hello-world&#x2F;</link>
+                <guid>https:&#x2F;&#x2F;jugglerchris.github.io&#x2F;hello-world&#x2F;</guid>
+                <description>&lt;h1 id=&quot;welcome&quot;&gt;Welcome&lt;&#x2F;h1&gt;
+&lt;p&gt;If you&#x27;re seeing this, I&#x27;ve managed to get this site working and some deep thoughts may follow.  (At least now I have the option).&lt;&#x2F;p&gt;
+</description>
+            </item>
+        
+    </channel>
+</rss>
